@@ -1,2 +1,2 @@
-# numerical-methods
-algoritms for diffrent numerical methods
+Colections of algoritms for numeric methods
+Pure fun
