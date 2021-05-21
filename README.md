@@ -1,2 +1,2 @@
-Colections of algoritms for numeric methods
-Pure fun
+Algoritms for numeric methods
+
